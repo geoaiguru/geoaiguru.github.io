@@ -18,10 +18,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Gurudatta K N" class="profile-photo">
+  <h1>Gurudatta K N</h1>
+  <p><strong>Geospatial Consultant</strong></p>
+  <p><em>I help geospatial teams scale delivery and operationalize AI in LiDAR & GIS workflows</em></p>
 </div>
 
 ---
