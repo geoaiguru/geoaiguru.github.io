@@ -109,7 +109,7 @@ I am currently engaged in geospatial consulting, market development and applied 
     - LiDAR calibration and orthophoto workflows
     - TerraSolid, MicroStation, ArcGIS, QGIS
 
--   :material-star-four-points:{ .lg .middle } **AI Adoption & Workflow Automation**
+-   :material-robot-outline:{ .lg .middle } **AI Adoption & Workflow Automation**
 
     ---
 
@@ -119,7 +119,7 @@ I am currently engaged in geospatial consulting, market development and applied 
     - Throughput optimization using AI-assisted tooling
     - Python-based automation and analytics
 
--   :material-earth:{ .lg .middle } **Program & Delivery Management**
+-   :material-clipboard-check-outline:{ .lg .middle } **Program & Delivery Management**
 
     ---
 
@@ -129,7 +129,7 @@ I am currently engaged in geospatial consulting, market development and applied 
     - Resource planning across in-house and vendor teams
     - Production risk management and QC frameworks
 
--   :material-database:{ .lg .middle } **Infrastructure & Utility Analytics**
+-   :material-transmission-tower:{ .lg .middle } **Infrastructure & Utility Analytics**
 
     ---
 
@@ -138,7 +138,7 @@ I am currently engaged in geospatial consulting, market development and applied 
     - Government and enterprise GIS solutions
     - Spatial analytics for operational decision-making
 
--   :material-airplane:{ .lg .middle } **Professional & Technical Contributions**
+-   :material-account-voice:{ .lg .middle } **Professional & Technical Contributions**
 
     - IEEE Senior Member (GRSS)
     - Conference organization and technical coordination
@@ -146,8 +146,6 @@ I am currently engaged in geospatial consulting, market development and applied 
     - Geospatial consulting and market development
 </div>
 
-
----
 ---
 
 ## Professional Recognition
