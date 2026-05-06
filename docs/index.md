@@ -58,29 +58,17 @@ I am currently engaged in geospatial consulting, market development and applied 
 
 <div class="grid cards" markdown>
 
-- **250,000+ sq.km**
-  
-  Airborne LiDAR programs delivered across Europe, Eastern Asia, Australia, and South America.
+- **250,000+ sq.km** Airborne LiDAR programs delivered across Europe, Eastern Asia, Australia, and South America.
 
-- **19,000+ km**
-  
-  Airborne Gieger Model LiDAR based Utility corridor classification supporting critical infrastructure analytics in North America.
+- **19,000+ km** Airborne Gieger Model LiDAR based Utility corridor classification supporting critical infrastructure analytics in North America.
 
-- **25+ Engineers**
-  
-  Built and managed distributed geospatial production teams with scalable delivery governance.
+- **25+ Engineers** Built and managed distributed geospatial production teams with scalable delivery governance.
 
-- **100+ Vendor Resources**
-  
-  Coordinated multi-vendor operational ecosystems for large geospatial programs.
+- **100+ Vendor Resources** Coordinated multi-vendor operational ecosystems for large geospatial programs.
 
-- **30% Throughput Improvement**
-  
-  Achieved through AI-assisted LiDAR production workflows and process optimization initiatives.
+- **30% Throughput Improvement** Achieved through AI-assisted LiDAR production workflows and process optimization initiatives.
 
-- **20+ Years**
-  
-  Experience spanning geospatial analytics, LiDAR operations, GIS consulting and delivery leadership.
+- **20+ Years** Experience spanning geospatial analytics, LiDAR operations, GIS consulting and delivery leadership.
 
 </div>
 
