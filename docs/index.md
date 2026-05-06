@@ -20,8 +20,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="hero">
   <img src="assets/images/profile.png" alt="Gurudatta K N" class="profile-photo">
   <h1>Gurudatta K N</h1>
-  <p><strong>Geospatial Consultant</strong></p>
-  <p><em>I help geospatial teams scale delivery and operationalize AI in LiDAR & GIS workflows</em></p>
+  <p><strong>Geospatial Leadership | LiDAR Operations | AI Adoption in Production Systems</strong></p>
+  <p><em>I help organizations scale geospatial delivery, operationalize AI in production workflows and solve complex infrastructure challenges at scale.</em></p>
 </div>
 
 ---
@@ -31,15 +31,13 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+With more than 20 years of experience in geospatial technology and LiDAR operations, I have led large-scale delivery programs spanning North America, Europe, Asia and South America. My work focuses on operationalizing geospatial analytics, improving delivery governance and integrating AI-assisted workflows into production environments without compromising quality standards.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+Over the years, I have managed airborne and terrestrial LiDAR programs covering hundreds of thousands of square kilometers, built distributed delivery teams and led vendor ecosystems supporting critical infrastructure and utility analytics. My experience combines technical execution with operational leadership across project delivery, workflow optimization, quality assurance and strategic planning.
+
+More recently, my focus has expanded towards production AI adoption in geospatial (LiDAR) workflows, including benchmarking AI-assisted LiDAR classification systems, evaluating delivery efficiency gains and helping organizations transition from traditional processing pipelines to analytics-driven operations.
+
+I am currently engaged in geospatial consulting, market development and applied AI learning while contributing actively to the IEEE Geoscience and Remote Sensing community.
 
 </div>
 
@@ -52,70 +50,116 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
-
+[Download CV :material-download:](assets/gurudatta-cv.pdf){ .md-button }
 
 ---
+---
 
-## Skills
+## Global Delivery Impact
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+- **250,000+ sq.km**
+  
+  Airborne LiDAR programs delivered across Europe, Eastern Asia, Australia, and South America.
+
+- **19,000+ km**
+  
+  Utility corridor classification supporting critical infrastructure analytics in North America.
+
+- **25+ Engineers**
+  
+  Built and managed distributed geospatial production teams with scalable delivery governance.
+
+- **100+ Vendor Resources**
+  
+  Coordinated multi-vendor operational ecosystems for large geospatial programs.
+
+- **30% Throughput Improvement**
+  
+  Achieved through AI-assisted production workflows and process optimization initiatives.
+
+- **20+ Years**
+  
+  Experience spanning geospatial analytics, LiDAR operations, GIS consulting, and delivery leadership.
+
+</div>
+
+
+## Skills & Expertise
+
+<div class="grid cards" markdown>
+
+-   :material-layers:{ .lg .middle } **Geospatial Operations Leadership**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Large-scale geospatial delivery management
+    - Distributed team leadership and vendor governance
+    - Operational scaling across global delivery programs
+    - Workflow optimization and quality assurance frameworks
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-code-braces:{ .lg .middle } **LiDAR & Terrain Analytics**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Airborne LiDAR (ALS) processing
+    - Mobile Terrestrial LiDAR (MTLS)
+    - Digital Terrain Model (DTM) generation
+    - Utility corridor and infrastructure analytics
+    - LiDAR calibration and orthophoto workflows
+    - TerraSolid, MicroStation, ArcGIS, QGIS
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
-
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-star-four-points:{ .lg .middle } **AI Adoption & Workflow Automation**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - AI-assisted classification workflows
+    - Production AI evaluation and benchmarking
+    - AI governance in live delivery environments
+    - Throughput optimization using AI-assisted tooling
+    - Python-based automation and analytics
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-earth:{ .lg .middle } **Program & Delivery Management**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - Multi-project execution across international markets
+    - Delivery governance and capacity planning
+    - Stakeholder communication and reporting
+    - Resource planning across in-house and vendor teams
+    - Production risk management and QC frameworks
+
+-   :material-database:{ .lg .middle } **Infrastructure & Utility Analytics**
+
+    ---
+
+    - Utility corridor classification programs
+    - Infrastructure mapping and terrain intelligence
+    - Government and enterprise GIS solutions
+    - Spatial analytics for operational decision-making
+
+-   :material-airplane:{ .lg .middle } **Professional & Technical Contributions**
+
+    - IEEE Senior Member (GRSS)
+    - Conference organization and technical coordination
+    - Industry lectures on GIS and LiDAR technologies
+    - Geospatial consulting and market development
 </div>
 
 
 ---
+---
 
+## Professional Recognition
+
+- IEEE Senior Member, Geoscience and Remote Sensing Society (GRSS)
+- Published contributor in IEEE Geoscience and Remote Sensing Magazine (2024)
+- Organizing Committee Member for InGARSS-2023
+- Speaker and invited lecturer on LiDAR, GIS and geospatial technologies
+
+---
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/geoaiguru){ .md-button }
+[LinkedIn](https://linkedin.com/in/grsguru){ .md-button }
