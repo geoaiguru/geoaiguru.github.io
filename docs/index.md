@@ -53,7 +53,6 @@ I am currently engaged in geospatial consulting, market development and applied 
 [Download CV :material-download:](assets/gurudatta-cv.pdf){ .md-button }
 
 ---
----
 
 ## Global Delivery Impact
 
@@ -99,7 +98,7 @@ I am currently engaged in geospatial consulting, market development and applied 
     - Operational scaling across global delivery programs
     - Workflow optimization and quality assurance frameworks
 
--   :material-code-braces:{ .lg .middle } **LiDAR & Terrain Analytics**
+-   :material-image-filter-hdr:{ .lg .middle } **LiDAR & Terrain Analytics**
 
     ---
 
