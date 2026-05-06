@@ -65,7 +65,7 @@ I am currently engaged in geospatial consulting, market development and applied 
 
 - **19,000+ km**
   
-  Utility corridor classification supporting critical infrastructure analytics in North America.
+  Airborne Gieger Model LiDAR based Utility corridor classification supporting critical infrastructure analytics in North America.
 
 - **25+ Engineers**
   
@@ -77,11 +77,11 @@ I am currently engaged in geospatial consulting, market development and applied 
 
 - **30% Throughput Improvement**
   
-  Achieved through AI-assisted production workflows and process optimization initiatives.
+  Achieved through AI-assisted LiDAR production workflows and process optimization initiatives.
 
 - **20+ Years**
   
-  Experience spanning geospatial analytics, LiDAR operations, GIS consulting, and delivery leadership.
+  Experience spanning geospatial analytics, LiDAR operations, GIS consulting and delivery leadership.
 
 </div>
 
