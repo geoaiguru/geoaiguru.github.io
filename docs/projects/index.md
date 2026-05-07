@@ -18,14 +18,13 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/blr-walk-2017.png)
 
-**[Sample Project](sample-project.md)**
+**WALKABILITY IN BANGALORE - 2017(blr-walk-2017.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+GIS Approach to Assess Walkability in Bangalore City 
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`ArcGIS 10.2` 
 
 [View Project →](sample-project.md){ .md-button }
 </div>
