@@ -20,7 +20,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/blr-walk-2017.png)
 
-**WALKABILITY IN BANGALORE - 2017(blr-walk-2017.md)**
+**WALKABILITY IN BANGALORE - 2017**
 
 GIS Approach to Assess Walkability in Bangalore City 
 
