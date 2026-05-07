@@ -21,7 +21,7 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:geoaiguru@gmail.com) |
+| :material-email: **Email** | [geoaiguru@gmail.com](mailto:geoaiguru@gmail.com) |
 | :fontawesome-brands-github: **GitHub** | [github.com/geoaiguru](https://github.com/geoaiguru) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/grsguru](https://linkedin.com/in/grsguru) |
 
