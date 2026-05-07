@@ -26,7 +26,7 @@ GIS Approach to Assess Walkability in Bangalore City
 
 `ArcGIS 10.2` 
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](blr-walk-2017.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
