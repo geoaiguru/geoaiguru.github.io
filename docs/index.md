@@ -20,8 +20,8 @@ CHECKLIST FOR THIS PAGE:
 <div class="hero">
   <img src="assets/images/profile.png" alt="Gurudatta K N" class="profile-photo">
   <h1>Gurudatta K N</h1>
-  <p><strong>Geospatial Leadership | LiDAR Operations | AI Adoption in Production Systems</strong></p>
-  <p><em>I help organizations scale geospatial delivery, operationalize AI in production workflows and solve complex infrastructure challenges at scale.</em></p>
+  <p><strong>Geospatial & LiDAR Operations | AI Adoption in Production Systems</strong></p>
+  <p><em>I help geospatial teams scale delivery and operationalize AI in LiDAR & GIS workflows</em></p>
 </div>
 
 ---
@@ -54,25 +54,6 @@ I am currently engaged in geospatial consulting, market development and applied 
 
 ---
 
-## Global Delivery Impact
-
-<div class="grid cards" markdown>
-
-- **250,000+ sq.km** Airborne LiDAR programs delivered across Europe, Eastern Asia, Australia, and South America.
-
-- **19,000+ km** Airborne Gieger Mode LiDAR based Utility corridor classification supporting critical infrastructure analytics in North America.
-
-- **25+ Engineers** Built and managed distributed geospatial production teams with scalable delivery governance.
-
-- **100+ Vendor Resources** Coordinated multi-vendor operational ecosystems for large geospatial programs.
-
-- **30% Throughput Improvement** Achieved through AI-assisted LiDAR production workflows and process optimization initiatives.
-
-- **20+ Years** Experience spanning geospatial analytics, LiDAR operations, GIS consulting and delivery leadership.
-
-</div>
-
-
 ## Skills & Expertise
 
 <div class="grid cards" markdown>
@@ -86,64 +67,21 @@ I am currently engaged in geospatial consulting, market development and applied 
     - Operational scaling across global delivery programs
     - Workflow optimization and quality assurance frameworks
 
--   :material-image-filter-hdr:{ .lg .middle } **LiDAR & Terrain Analytics**
+-   :material-image-filter-hdr:{ .lg .middle } **LiDAR & Geospatial**
 
     ---
 
-    - Airborne LiDAR (ALS) processing
-    - Mobile Terrestrial LiDAR (MTLS)
-    - Digital Terrain Model (DTM) generation
+    - Airborne LiDAR (ALS) & Mobile LiDAR (MLS) processing
     - Utility corridor and infrastructure analytics
-    - LiDAR calibration and orthophoto workflows
-    - TerraSolid, MicroStation, ArcGIS, QGIS
-
--   :material-robot-outline:{ .lg .middle } **AI Adoption & Workflow Automation**
+    - AI-assisted LiDAR classification workflows
+    - TerraSolid, MicroStation, ArcGIS 10.2, QGIS, Python
 
     ---
 
-    - AI-assisted classification workflows
-    - Production AI evaluation and benchmarking
-    - AI governance in live delivery environments
-    - Throughput optimization using AI-assisted tooling
-    - Python-based automation and analytics
-
--   :material-clipboard-check-outline:{ .lg .middle } **Program & Delivery Management**
-
-    ---
-
-    - Multi-project execution across international markets
-    - Delivery governance and capacity planning
-    - Stakeholder communication and reporting
-    - Resource planning across in-house and vendor teams
-    - Production risk management and QC frameworks
-
--   :material-transmission-tower:{ .lg .middle } **Infrastructure & Utility Analytics**
-
-    ---
-
-    - Utility corridor classification programs
-    - Infrastructure mapping and terrain intelligence
-    - Government and enterprise GIS solutions
-    - Spatial analytics for operational decision-making
-
--   :material-account-voice:{ .lg .middle } **Professional & Technical Contributions**
-
-    - IEEE Senior Member (GRSS)
-    - Conference organization and technical coordination
-    - Industry lectures on GIS and LiDAR technologies
-    - Geospatial consulting and market development
 </div>
 
 ---
 
-## Professional Recognition
-
-- IEEE Senior Member, Geoscience and Remote Sensing Society (GRSS)
-- Published contributor in IEEE Geoscience and Remote Sensing Magazine (2024)
-- Organizing Committee Member for InGARSS-2023
-- Speaker and invited lecturer on LiDAR, GIS and geospatial technologies
-
----
 ## Connect
 
 [GitHub](https://github.com/geoaiguru){ .md-button }
