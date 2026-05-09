@@ -31,13 +31,15 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-With more than 20 years of experience in geospatial technology and LiDAR operations, I have led large-scale delivery programs spanning North America, Europe, Asia and South America. My work focuses on operationalizing geospatial analytics, improving delivery governance and integrating AI-assisted workflows into production environments without compromising quality standards.
+For more than two decades, I have worked at the intersection of geospatial technology, LiDAR operations and large-scale delivery management across North America, Europe, Asia and South America. My experience spans enterprise geospatial programs, operational governance and the integration of AI-assisted workflows into production environments while maintaining rigorous quality standards.
 
-Over the years, I have managed airborne and terrestrial LiDAR programs covering hundreds of thousands of square kilometers, built distributed delivery teams and led vendor ecosystems supporting critical infrastructure and utility analytics. My experience combines technical execution with operational leadership across project delivery, workflow optimization, quality assurance and strategic planning.
+I have led airborne and terrestrial LiDAR programs covering hundreds of thousands of square kilometers, managed distributed global delivery teams and built vendor ecosystems supporting utility, infrastructure and analytics-driven operations. My work combines technical depth with operational leadership across delivery strategy, workflow optimization, quality assurance and production scalability.
 
-More recently, my focus has expanded towards production AI adoption in geospatial (LiDAR) workflows, including benchmarking AI-assisted LiDAR classification systems, evaluating delivery efficiency gains and helping organizations transition from traditional processing pipelines to analytics-driven operations.
+In recent years, my focus has increasingly centered on applied AI in geospatial production workflows. This includes evaluating AI-assisted LiDAR classification systems, benchmarking operational efficiency gains and helping organizations transition from traditional processing models to analytics-led operations.
 
-I am currently engaged in geospatial consulting, market development and applied AI learning while contributing actively to the IEEE Geoscience and Remote Sensing community.
+Alongside consulting and market development initiatives, I actively contribute to the IEEE Geoscience and Remote Sensing community and continue exploring practical applications of AI in geospatial technology.
+
+Beyond professional work, I am a bibliophile with a personal collection of more than 3,000 books in English and Kannada. I am also a hobbyist publisher and have published books in Kannada, including a title catalogued by the Library of Congress in Washington, D.C.
 
 </div>
 
