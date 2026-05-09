@@ -76,7 +76,7 @@ Beyond professional work, I am a bibliophile with a personal collection of more 
     - Airborne LiDAR (ALS) & Mobile LiDAR (MLS) processing
     - Utility corridor and infrastructure analytics
     - AI-assisted LiDAR classification workflows
-    - TerraSolid, MicroStation, ArcGIS 10.2, QGIS, Python
+    - TerraSolid, MicroStation, ArcGIS, QGIS, Python
 
     ---
 
