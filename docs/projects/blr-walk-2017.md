@@ -1,6 +1,4 @@
 # GIS Approach to Assess Walkability in Bangalore City (M.Sc. Thesis, 2017)
-![Project overview image](../assets/images/blr-walk-2017.png)
-
 ## Overview
 
 This project developed a Walkability Index for Bangalore using GIS-based spatial analysis. It combined population density, land-use diversity, street connectivity, and destination proximity to objectively assess walkability across all municipal wards in ArcGIS. The work produced an evidence-based framework for identifying pedestrian barriers, planning priorities, and urban mobility opportunities in the 2017 context.
@@ -11,6 +9,7 @@ This project developed a Walkability Index for Bangalore using GIS-based spatial
 **Status:** Completed  
 
 ---
+'''![Project overview image](../assets/images/blr-walk-2017.png)'''
 
 ## Methods & Tools
 
@@ -50,6 +49,6 @@ The thesis provided evidence-based recommendations for improving urban walkabili
 
 ---
 
-## Links
+<!--## Links
 
-[View Image](../assets/images/blr-walk-2017.png){ .md-button }
+[View Thesis](../assets/images/blr-walk-2017.png){ .md-button } -->
