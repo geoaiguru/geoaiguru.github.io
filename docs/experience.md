@@ -143,19 +143,19 @@ hide:
 
 ## Professional Organizations
 
-## IEEE R10 - Asia and Pacific, Bangalore Section
+### IEEE R10 - Asia and Pacific, Bangalore Section
 Senior Member, (Member ID: 92830154)
 
-## IEEE - Geoscience and Remote Sensing Society (GRSS), Bangalore Section
+### IEEE - Geoscience and Remote Sensing Society (GRSS), Bangalore Section
 
 - Secretary | 2021 - 2023
 - ExeComm Member | 2024 - 2025
 
-## IEEE CONECCT - 2023
+### IEEE CONECCT - 2023
 
 - Sessions Chair [View Certificate](../assets/images/conecct-sessions-chair.png)
 
-## IEEE's India Geoscience and Remote Sensing Symposium (InGARSS) - 2023
+### IEEE's India Geoscience and Remote Sensing Symposium (InGARSS) - 2023
 
 - Organization Committee Member
 - Finance Chair [View Certificate](../assets/images/ingarss-finance-chair.png)
@@ -164,7 +164,7 @@ Senior Member, (Member ID: 92830154)
 
 ## Honors & awards
 
-## Senior Member, IEEE
+### Senior Member, IEEE
 Issued by IEEE · Feb 2020
 
 - In February – 2020, my membership with Institute of Electrical and Electronic Engineers (IEEE), has been elevated to the grade of SENIOR MEMBER
@@ -175,22 +175,22 @@ Issued by IEEE · Feb 2020
 
 ## Certifications
 
-## Python Bootcamp ML
+### Python Bootcamp ML
 upGrad · 2025
 
 [View Certificate](https://www.credential.net/66993a88-9b80-4170-b9b8-cd4e94b4ddca#acc.TZ0s3XmK)
 
-## Data Science for Everyone
+### Data Science for Everyone
 DataCamp · 2020
 
 [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/a845d1e79145ab955cec84f610052c346b8b853e)
 
-## Introduction to Python
+### Introduction to Python
 DataCamp · 2020
 
 [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/188e2923ed7d07fbe33cb2a03f65c5d82d59676e)
 
-## Machine Learning for Everyone
+### Machine Learning for Everyone
 DataCamp · 2020
 
 [View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/cbc732e99e086bf436eb49a4ac06f5ff244a4023)
