@@ -21,7 +21,6 @@ hide:
 
 </div>
 
--
 <div class="timeline-entry" markdown>
   
 ### Consultant, Strategic Operations - AI GeoIntelligence Corporation
@@ -34,7 +33,6 @@ hide:
 
 </div>
 
--
 <div class="timeline-entry" markdown>
   
 ### Production Manager - VeriDaaS Pvt. Ltd.
@@ -49,7 +47,6 @@ hide:
 
 </div>
 
--
 <div class="timeline-entry" markdown>
   
 ### Business Development Manager - C.E. Info Systems Ltd. (MapmyIndia)
@@ -62,7 +59,6 @@ hide:
 
 </div>
 
--
 <div class="timeline-entry" markdown>
   
 ### Technical Director & Managing Partner - Aaron Geospatial Designs LLP
@@ -74,7 +70,6 @@ hide:
 
 </div>
 
--
 <div class="timeline-entry" markdown>
   
 ### Project Manager - Geokno India (GMR Group)
@@ -87,7 +82,6 @@ hide:
 
 </div>
 
--
 <div class="timeline-entry" markdown>
   
 ### Project Manager, LiDAR Operations - Egis-GeoPlan (formerly Groupe SCE India)
