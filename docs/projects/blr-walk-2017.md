@@ -14,11 +14,13 @@ This project developed a Walkability Index for Bangalore using GIS-based spatial
 ## Methods & Tools
 
 **Data Sources**
+
 - Publicly available spatial and demographic datasets for Bangalore
 - Ward-level administrative boundaries
 - Land-use, street network, and destination datasets compiled from multiple public sources
 
 **Processing Steps**
+
 1. Collected and integrated multi-source public datasets.
 2. Standardized spatial layers and normalized built environment indicators.
 3. Modeled walkability using population density, land-use diversity, street connectivity, and destination proximity.
