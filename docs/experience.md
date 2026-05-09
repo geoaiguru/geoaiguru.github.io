@@ -7,6 +7,10 @@ hide:
 
 ## Work Experience
 
+<div class="timeline" markdown>
+
+<div class="timeline-entry" markdown>
+
 ### Consultant, Market & Solution Development - HALG Technologies
 
 *2026 - Present | Bengaluru, India*
@@ -15,6 +19,11 @@ hide:
 - Driving business development through partner identification, ecosystem collaboration, and opportunity qualification across India and international markets
 - Defining product and service concepts, pilot frameworks, and commercialization pathways for analytics-enabled solutions
 
+</div>
+
+-
+<div class="timeline-entry" markdown>
+  
 ### Consultant, Strategic Operations - AI GeoIntelligence Corporation
 
 *2024 - 2025 | Bengaluru, India*
@@ -23,6 +32,11 @@ hide:
 - Evaluated and integrated AI classification tools, including Flai.ai, into live delivery with a rigorous QC validation framework
 - Benchmarked AI-assisted outputs against manual workflows, demonstrating about 30% throughput improvement while maintaining quality standards
 
+</div>
+
+-
+<div class="timeline-entry" markdown>
+  
 ### Production Manager - VeriDaaS Pvt. Ltd.
 
 *2023 - 2024 | Bengaluru, India*
@@ -33,6 +47,11 @@ hide:
 - Coordinated classification of 19,000+ km of utility corridors for Pedernales Electric Cooperative, supporting infrastructure reliability and worker safety
 - Classified 2,274 sq.km of Geiger-mode LiDAR for St. Tammany Parish Mosquito Abatement using semi-automated and manual procedures
 
+</div>
+
+-
+<div class="timeline-entry" markdown>
+  
 ### Business Development Manager - C.E. Info Systems Ltd. (MapmyIndia)
 
 *July 2022 - January 2023 | Bengaluru, India*
@@ -41,6 +60,11 @@ hide:
 - Implemented a GIS solution for the Safe City Project in Chennai, including crime zone mapping, geotagged data integration, and personnel training
 - Co-developed the One Map Goa GIS portal for land record digitization and urban planning with Goa Electronics Limited
 
+</div>
+
+-
+<div class="timeline-entry" markdown>
+  
 ### Technical Director & Managing Partner - Aaron Geospatial Designs LLP
 
 *June 2016 - January 2022 | Bengaluru, India*
@@ -48,6 +72,11 @@ hide:
 - Co-founded and bootstrapped Aaron GeoSpatial Designs, scaling operations to deliver 25,000+ sq.km of geospatial projects across Europe and South America
 - Led a lean team of 6 engineers through R&D, training, and capacity-building initiatives
 
+</div>
+
+-
+<div class="timeline-entry" markdown>
+  
 ### Project Manager - Geokno India (GMR Group)
 
 *May 2014 - June 2015 | Bengaluru, India*
@@ -56,6 +85,11 @@ hide:
 - Managed terrestrial LiDAR projects, including Statue of Unity mapping
 - Established vendor management and data processing procedures
 
+</div>
+
+-
+<div class="timeline-entry" markdown>
+  
 ### Project Manager, LiDAR Operations - Egis-GeoPlan (formerly Groupe SCE India)
 
 *September 2004 - April 2014 | Bengaluru, India*
@@ -65,28 +99,115 @@ hide:
 - Led a team of 60 LiDAR professionals and progressed into manager roles, improving timelines by 20% to 30%
 - Notable projects included Cartographic Map Generation for Germany, Nile River LiDAR Campaign, European Digitization, and BD Parcellaire France
 
+</div>
+
+</div>
+
 ## Education
 
 ### PGP in Machine Learning & Artificial Intelligence
 
 **International Institute of Information Technology, Bangalore** | *2026 - Ongoing*
 
+---
+
 ### Graduate Certificate in Public Policy (Technology & Policy)
 
 **Takshashila Institute, Bangalore** | *2025*
+
+---
 
 ### Master of Science in Geographic Information Science & Systems
 
 **University of Salzburg, Austria** | *2017*
 
+---
+
 ### Master of Science in Geo-Informatics
 
 **Sikkim Manipal University, India** | *2006*
+
+---
 
 ### Post Graduate Diploma in Geographic Information System
 
 **Centre for Information Science and Technology, University of Mysore** | *2004*
 
+---
+
 ### Bachelor's Degree in Civil Engineering
 
 **BMS College of Engineering, Visveswaraya Technological University, Bangalore** | *2002*
+
+---
+
+## Professional Organizations
+
+## IEEE R10 - Asia and Pacific, Bangalore Section
+Senior Member, (Member ID: 92830154)
+
+## IEEE - Geoscience and Remote Sensing Society (GRSS), Bangalore Section
+
+- Secretary | 2021 - 2023
+- ExeComm Member | 2024 - 2025
+
+## IEEE CONECCT - 2023
+
+- Sessions Chair [View Certificate](../assets/images/conecct-sessions-chair.png)
+
+## IEEE's India Geoscience and Remote Sensing Symposium (InGARSS) - 2023
+
+- Organization Committee Member
+- Finance Chair [View Certificate](../assets/images/ingarss-finance-chair.png)
+- Sponsorship Chair [View Certificate](../assets/images/ingarss-sponsor-chair.png)
+
+
+## Honors & awards
+
+## Senior Member, IEEE
+Issued by IEEE · Feb 2020
+
+- In February – 2020, my membership with Institute of Electrical and Electronic Engineers (IEEE), has been elevated to the grade of SENIOR MEMBER
+- [Senior Membership grade IS HELD BY ONLY EIGHT PERCENT OF IEEE’S APPROXIMATELY 428,000 MEMBERS. “Realization of this grade requires extensive experience and reflects professional maturity and documented achievements of significance"]
+
+[IEEE Senior Member Plaque](../assets/images/ieee-senior-member.png){ .md-button }
+
+
+## Certifications
+
+## Python Bootcamp ML
+upGrad · 2025
+
+[View Certificate](https://www.credential.net/66993a88-9b80-4170-b9b8-cd4e94b4ddca#acc.TZ0s3XmK)
+
+## Data Science for Everyone
+DataCamp · 2020
+
+[View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/a845d1e79145ab955cec84f610052c346b8b853e)
+
+## Introduction to Python
+DataCamp · 2020
+
+[View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/188e2923ed7d07fbe33cb2a03f65c5d82d59676e)
+
+## Machine Learning for Everyone
+DataCamp · 2020
+
+[View Certificate](https://www.datacamp.com/statement-of-accomplishment/course/cbc732e99e086bf436eb49a4ac06f5ff244a4023)
+
+### Advanced QGIS Certification
+Spatial Thoughts · 2020
+
+[View Certificate](https://changelog.qgis.org/en/qgis/certificate/QGIS-1164/)
+
+### Customizing QGIS with Python
+Spatial Thoughts · 2020
+
+[View Certificate](https://changelog.qgis.org/en/qgis/certificate/QGIS-1065/)
+
+### Spatial Data Science and Applications 
+Coursera · 2019
+
+[View Certificate](https://www.coursera.org/account/accomplishments/verify/4ZB6FEJXCJ4S)
+
+
